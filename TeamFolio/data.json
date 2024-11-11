@@ -1,0 +1,26 @@
+[
+    {
+        "name":"ameksa",
+        "prenom":"khadija",
+        "age":19,
+        "email":"ameksakhadija@gmail.com"
+    },
+    {
+        "name":"mahir",
+        "prenom":"yassir",
+        "age":20,
+        "email":"mahiryassirgmail.com"
+    },
+    {
+        "name":"hadoui",
+        "prenom":"abdelkbir",
+        "age":22,
+        "email":"hadouigmail.com"
+    },
+    {
+        "name":"elhmidi",
+        "prenom":"abderrahman",
+        "age":25,
+        "email":"elhmidiabdo@gmail.com"
+    }
+]
